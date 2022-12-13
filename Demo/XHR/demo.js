@@ -4,7 +4,7 @@ window.onload = function () {
 
     // Création de l'objet XMLHttpRequest
     const xhr = window.XMLHttpRequest 
-        ? new XMLHttpRequest 
+        ? new XMLHttpRequest()
         : new ActiveXObject('Microsoft.XMLHTTP')
 
     xhr.onreadystatechange = function () {
