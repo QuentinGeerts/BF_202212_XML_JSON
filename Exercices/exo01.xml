@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<books>
+
+    <book key="HP01">
+        <title>Harry Potter à l'école des sorciers</title>
+        <author>
+            <name>Rowling</name>
+            <first_name>J K</first_name>
+        </author>
+        <genre>Fantastique</genre>
+        <release_date>2001</release_date>
+    </book>
+
+    <book key="HP02" previous="HP01">
+        <title>Harry Potter et la chambre des secrets</title>
+        <author>
+            <name>Rowling</name>
+            <first_name>J K</first_name>
+        </author>
+        <genre>Fantastique</genre>
+        <release_date>2002</release_date>
+    </book>
+
+    <book key="D01">
+        <title>Dune</title>
+        <author>
+            <name>Herbert</name>
+            <first_name>Frank</first_name>
+        </author>
+        <genre>Science-fiction</genre>
+        <release_date>1965</release_date>
+    </book>
+    
+
+</books>
