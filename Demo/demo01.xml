@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Prologue -->
+
+<!-- Racine -->
+<classe>
+
+    <formateur societe="bstorm">
+        <nom>Geerts</nom>
+        <prenom>Quentin</prenom>
+    </formateur>
+
+    <stagiaires>
+        <stagiaire present="true">
+            <nom>Breyer</nom>
+            <prenom>Guillaume</prenom>
+        </stagiaire>
+        <stagiaire present="true">
+            <nom>Cornelis</nom>
+            <prenom>Nelson</prenom>
+        </stagiaire>
+        <stagiaire present="true">
+            <nom>Fry-Nelson</nom>
+            <prenom>Ryan</prenom>
+        </stagiaire>
+        <stagiaire present="true">
+            <nom>Ghion</nom>
+            <prenom>Sylvain</prenom>
+        </stagiaire>
+        <stagiaire present="true">
+            <nom>Granara</nom>
+            <prenom>Clémence</prenom>
+        </stagiaire>
+        <stagiaire present="true">
+            <nom>Houssane</nom>
+            <prenom>Amine</prenom>
+        </stagiaire>
+        <stagiaire present="true">
+            <nom>Koeut</nom>
+            <prenom>Eric</prenom>
+        </stagiaire>
+        <stagiaire present="false">
+            <nom>Miuccio</nom>
+            <prenom>Stéphane</prenom>
+        </stagiaire>
+        <stagiaire present="true">
+            <nom>Robache</nom>
+            <prenom>Alexandra</prenom>
+        </stagiaire>
+        <stagiaire present="true">
+            <nom>Rossitto</nom>
+            <prenom>Nicolas</prenom>
+        </stagiaire>
+        <stagiaire present="true">
+            <nom>Scholer</nom>
+            <prenom>Frédéric</prenom>
+        </stagiaire>
+        <stagiaire present="false">
+            <nom>Triantis</nom>
+            <prenom>Anthony</prenom>
+        </stagiaire>
+        <stagiaire present="true">
+            <nom>Vanderkelen</nom>
+            <prenom>Laurent</prenom>
+        </stagiaire>
+
+    </stagiaires>
+
+</classe>
