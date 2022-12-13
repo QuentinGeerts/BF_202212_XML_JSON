@@ -1,0 +1,74 @@
+{
+    "formateur": {
+        "nom": "Geerts",
+        "prenom": "Quentin",
+        "societe": "BStorm"
+    },
+    "stagiaires": [
+        {
+            "nom": "Breyer",
+            "prenom": "Guillaume",
+            "present": true
+        },
+        {
+            "nom": "Cornelis",
+            "prenom": "Nelson",
+            "present": true
+        },
+        {
+            "nom": "Fry-Nelson",
+            "prenom": "Ryan",
+            "present": true
+        },
+        {
+            "nom": "Ghion",
+            "prenom": "Sylvain",
+            "present": true
+        },
+        {
+            "nom": "Granara",
+            "prenom": "Clémence",
+            "present": true
+        },
+        {
+            "nom": "Houssane",
+            "prenom": "Amine",
+            "present": true
+        },
+        {
+            "nom": "Koeut",
+            "prenom": "Eric",
+            "present": true
+        },
+        {
+            "nom": "Miuccio",
+            "prenom": "Stéphane",
+            "present": false
+        },
+        {
+            "nom": "Robache",
+            "prenom": "Alexandra",
+            "present": true
+        },
+        {
+            "nom": "Rossitto",
+            "prenom": "Nicolas",
+            "present": true
+        },
+        {
+            "nom": "Scholer",
+            "prenom": "Frédéric",
+            "present": true
+        },
+        {
+            "nom": "Triantis",
+            "prenom": "Anthony",
+            "present": false
+        },
+        {
+            "nom": "Vanderkelen",
+            "prenom": "Laurent",
+            "present": true
+        }
+    ]
+}
